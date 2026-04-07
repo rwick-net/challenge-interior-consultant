@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://rrnwick.github.io/challenge-interior-consultant/">
+    <a href="https://rwick-net.github.io/challenge-interior-consultant/">
       Solution
     </a>
     <span> | </span>
