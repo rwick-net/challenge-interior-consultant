@@ -38,4 +38,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 <!-- - Website [your-website.com](https://{your-web-site-link}) -->
 
-- GitHub [@rrnwick](https://github.com/rrnwick)
+- GitHub [@rrnwick](https://github.com/rwick-net)
